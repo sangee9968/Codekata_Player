@@ -7,6 +7,5 @@ s=[]
 for i in range(len(l1)):
 	l.append(l1[i])
 	x=max(l)
-	print(x)
 	s.append(x)
 print(*s)
